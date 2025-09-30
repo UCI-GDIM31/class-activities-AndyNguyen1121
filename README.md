@@ -1,12 +1,8 @@
-# in-class-activities
+# in-class-activities-finished
 
 ## Devlogs
 
-### W1
-
-Hello World!
-
-### W2
+## W1
 
 I learned how to upload games on itch.io that allows people to play immediately. I learned how hierarchies work and that the children always follows the parent's transform position. Components allow for values such as speed and rotation values to be edited individually.
 
