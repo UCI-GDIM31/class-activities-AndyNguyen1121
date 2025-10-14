@@ -10,6 +10,9 @@ I learned how to upload games on itch.io that allows people to play immediately.
 1. The RGB values are floats because not all colors can be represented with integers. Color values can be decimals, which is why it must be a float.
 2. _bounce is an int because the number of bounces can not be represented as a decimal. You can not have 1.5 bounces. The bounces have to be whole numbers.
 3. The step 4 error has a missing semicolon at the end of the statement which prevented the game from running.
+   
+### W3
+The function's return type should be void. The function should access the player's sanity level and change the light brightness accordingly.
 
 ## Open-Source Assets
 
