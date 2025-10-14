@@ -12,7 +12,7 @@ I learned how to upload games on itch.io that allows people to play immediately.
 3. The step 4 error has a missing semicolon at the end of the statement which prevented the game from running.
    
 ### W3
-The function's return type should be void. The function have one parameter for the player's sanity level and use that to change the light brightness accordingly.
+The function's return type should be void. The function should have one parameter for the player's sanity level and use that to change the light brightness accordingly.
 
 ## Open-Source Assets
 
