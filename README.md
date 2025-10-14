@@ -15,7 +15,7 @@ I learned how to upload games on itch.io that allows people to play immediately.
 Table #14
 The function's return type should be void. The function should have one parameter for the player's sanity level and use that to change the light brightness accordingly.
 
-Components is a skinwalker and the skin suit is the classes. Member variables tell the skinwaker how to use the skin suit.
+Components is a skinwalker and the skin suit is the classes. Member variables tell the skinwaker are its traits and the methods are what tells the suit what to do.
 
 Because the balls' brightness is not capped, the balls will keep getting brighter and brighter.
 
