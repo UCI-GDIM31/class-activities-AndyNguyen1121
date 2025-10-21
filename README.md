@@ -19,6 +19,9 @@ Components is a skinwalker and the skin suit is the classes. Member variables te
 
 Because the balls' brightness is not capped, the balls will keep getting brighter and brighter.
 
+### W4
+Line 17 declares and initializes the member variable _isGrounded to false. Line 28 checks if the player is pressing the space bar and if the cat is grounded. If the line 28 condition is true, the _isGrounded boolean is set to false because the cat is now jumping in the air.
+
 ## Open-Source Assets
 
 ### W1
