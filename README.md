@@ -23,6 +23,10 @@ Because the balls' brightness is not capped, the balls will keep getting brighte
 Table #14
 Line 17 declares the variable _isGrounded, setting its default value to false. Line 28 checks if the player is pressing the space bar and if the cat is grounded. If the line 28 condition is true, the _isGrounded boolean on line 32 is set to false because the cat is now jumping in the air.
 
+For the collider activity, we added a rigidbody and collider to the cat and ball, and a trigger collider on the goal. 
+
+Some issues that arised was that the ball was not passing through the goal collider, but bouncing off of it. To solve this we made the collider a trigger instead. For the cat to jump and the ball to bounce we needed to add rigidbodies.
+
 ## Open-Source Assets
 
 ### W1
