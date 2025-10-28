@@ -27,6 +27,12 @@ For the collider activity, we added a rigidbody and collider to the cat and ball
 
 Some issues that arised was that the ball was not passing through the goal collider, but bouncing off of it. To solve this we made the collider a trigger instead. For the cat to jump and the ball to bounce we needed to add rigidbodies.
 
+### W5
+Table #14 
+When is using a Vector3 overkill?
+
+Never. You use it when you need to and there's no way around it.
+
 ## Open-Source Assets
 
 ### W1
