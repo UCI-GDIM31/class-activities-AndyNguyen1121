@@ -31,7 +31,7 @@ public class SoccerBall : MonoBehaviour
     {
         // finish STEP 1 by uncommenting and fixing the below line!
 
-
+        
         // STEP 2 -------------------------------------------------------------
         // Write an IF STATEMENT to check if the game object we collided with
         //      has the tag "Goal".
@@ -118,7 +118,7 @@ public class SoccerBall : MonoBehaviour
     //              time variable when the player makes a goal. 
     // STEP 6 -----------------------------------------------------------------
 
-    public void UpdateTimer()
+    private void UpdateTimer()
     {
         _time += Time.deltaTime;
         _timeText.text = "Time since last goal: " + _time;
