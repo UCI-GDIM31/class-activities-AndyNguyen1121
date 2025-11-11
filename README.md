@@ -33,7 +33,7 @@ When is using a Vector3 overkill?
 
 Never. You use it when you need to and there's no way around it.
 
-### W5
+### W6
 I worked on the Unity Coding section [link](https://docs.google.com/document/d/1lmiUEvktjmcBWJmVSkGWRt156K5VDO01tHGCc-V7qak/edit?tab=t.0)
 
 Methods: Start(), Update()
@@ -41,7 +41,7 @@ Variables: bool isChasing, float speed, Transform playerLocation;
 
 Start() is where the bat will start following the player.
 
-### W6
+### W7
 The problem is step 2 is that it is using the world's forward direction instead of the local direction.
 
 ## Open-Source Assets
