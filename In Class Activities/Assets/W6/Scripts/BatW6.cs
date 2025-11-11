@@ -14,7 +14,6 @@ public class BatW6 : MonoBehaviour
         {
             Vector2 dir = playerLocation.position - transform.position;
             dir.Normalize();
-
             transform.Translate(dir * speed * Time.deltaTime);
         }
         else if ((isChasing && 

@@ -41,6 +41,9 @@ Variables: bool isChasing, float speed, Transform playerLocation;
 
 Start() is where the bat will start following the player.
 
+### W6
+The problem is step 2 is that it is using the world's forward direction instead of the local direction.
+
 ## Open-Source Assets
 
 ### W1
